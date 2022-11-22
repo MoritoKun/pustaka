@@ -7,3 +7,6 @@ Aplikasi Pustaka Booking ini adalah aplikasi untuk perpustakaan dalam mengelola 
 ### Kelebihan Project
 1. Meminjam buku
 2. Mengembalikan buku
+
+### Screenshot Project
+![Menu User](/assets/img/screenshot/Menu-User-Pustaka-Booking.png)
